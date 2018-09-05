@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bears Quiz</string>
+    <string name="q1">Question 1</string>
+    <string name="q2">Question 2</string>
+    <string name="q3">Question 3</string>
+    <string name="q4">Question 4</string>
+    <string name="q5">Question 5</string>
+    <string name="q6">Question 6</string>
+    <string name="questionOne">What year did the Bears win the Super Bowl?</string>
+    <string name="questionTwo">Who holds the all time Rushing Yards Record for the Bears?</string>
+    <string name="questionThree">Which player won a championship as a player and a coach?</string>
+    <string name="questionFour">Who holds the all time Passing Yards Record for the Bears?</string>
+    <string name="questionFive">What is the original name of the Chicago Bears before it was changed?</string>
+    <string name="questionSix">Who are the two previous head coaches of the Bears before the start of the Matt Nagy era?</string>
+    <string name="q1a1">1983</string>
+    <string name="q1a2">1978</string>
+    <string name="q1a3">1985</string>
+    <string name="q1a4">2008</string>
+    <string name="q2a1">Gayle Sayers</string>
+    <string name="q2a2">Walter Payton</string>
+    <string name="q2a3">Matt Forte</string>
+    <string name="q2a4">Jordan Howard</string>
+    <string name="q3a1">Brian Urlacher</string>
+    <string name="q3a2">Payton Manning</string>
+    <string name="q3a3">Dick Butkus</string>
+    <string name="q3a4">Mike Ditka</string>
+    <string name="q4a1">Jay Cutler</string>
+    <string name="q4a2">Sid Luckman</string>
+    <string name="q4a3">Mitchell Trubisky</string>
+    <string name="q4a4">Rex Grossman</string>
+    <string name="q5a1">(Hint: use the City and Team Name)</string>
+    <string name="q6a1">George Halas</string>
+    <string name="q6a2">Lovie Smith</string>
+    <string name="q6a3">John Fox</string>
+    <string name="q6a4">Marc Trestman</string>
+    <string name="buttonText">Submit Answers</string>
+</resources>
